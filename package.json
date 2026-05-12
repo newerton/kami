@@ -67,7 +67,7 @@
     "@formkit/auto-animate": "1.0.0-pre-alpha.3",
     "@mx-space/api-client": "3.1.0",
     "@sentry/nextjs": "10.48.0",
-    "axios": "1.15.0",
+    "axios": "1.15.2",
     "clsx": "2.0.0",
     "dayjs": "1.11.10",
     "devtools-detector": "2.0.14",
